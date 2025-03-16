@@ -28,3 +28,6 @@ The dataset includes various features such as:
 - **Python**
 - **Pandas, NumPy, Matplotlib, Seaborn**
 - **Scikit-learn**
+
+- ## **Conclusion**  
+This project successfully predicts real estate prices using machine learning, with **location, area type, and total square feet** being key factors. Future improvements will focus on integrating **economic indicators and advanced models** for higher accuracy.
